@@ -43,6 +43,6 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
-console.log("VER 3");
+console.log("VER 4");
 
 module.exports = app;
